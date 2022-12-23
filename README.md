@@ -1,3 +1,1 @@
-# AulaCQRS
-
-https://www.youtube.com/watch?v=hlum-rdeWoM
+Projeto CQRS
